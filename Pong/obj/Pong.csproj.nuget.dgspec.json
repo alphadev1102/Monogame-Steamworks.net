@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\works\\Mono\\Pong\\Pong\\Pong.csproj": {}
+    "F:\\works\\Mono\\Monogame-Steamworks.net\\Pong\\Pong.csproj": {}
   },
   "projects": {
-    "F:\\works\\Mono\\Pong\\Pong\\Pong.csproj": {
+    "F:\\works\\Mono\\Monogame-Steamworks.net\\Pong\\Pong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\works\\Mono\\Pong\\Pong\\Pong.csproj",
+        "projectUniqueName": "F:\\works\\Mono\\Monogame-Steamworks.net\\Pong\\Pong.csproj",
         "projectName": "Pong",
-        "projectPath": "F:\\works\\Mono\\Pong\\Pong\\Pong.csproj",
+        "projectPath": "F:\\works\\Mono\\Monogame-Steamworks.net\\Pong\\Pong.csproj",
         "packagesPath": "C:\\Users\\RJS\\.nuget\\packages\\",
-        "outputPath": "F:\\works\\Mono\\Pong\\Pong\\obj\\",
+        "outputPath": "F:\\works\\Mono\\Monogame-Steamworks.net\\Pong\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
             "MonoGame.Framework.DesktopGL": {
               "target": "Package",
               "version": "[3.8.1.303, )"
+            },
+            "Myra": {
+              "target": "Package",
+              "version": "[1.4.5, )"
             }
           },
           "imports": [

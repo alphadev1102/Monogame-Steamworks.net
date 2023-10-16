@@ -22,8 +22,12 @@
   <ItemGroup>
     <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303" />
     <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.1.303" />
+    <PackageReference Include="Myra" Version="1.4.5" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="GeonBit.UI.DataTypes">
+      <HintPath>Content\GeonBit.UI.DataTypes.dll</HintPath>
+    </Reference>
     <Reference Include="Steamworks.NET">
       <HintPath>Steamworks.NET.dll</HintPath>
     </Reference>
